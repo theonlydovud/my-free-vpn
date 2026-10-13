@@ -1,0 +1,8 @@
+{
+  "name": "my-free-vpn",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "grammy": "^1.21.1"
+  }
+}
